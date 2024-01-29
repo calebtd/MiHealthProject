@@ -1,0 +1,29 @@
+commit cc64337e26aa3fb099172cc1a91cd30c538a5141
+Author: calebtd <42586093+calebtd@users.noreply.github.com>
+Date:   Mon Jan 29 02:07:15 2024 -0700
+
+    Rename README.MD to README.md
+
+commit 1a6e8dc484e1753ea2767bef3467021ad6166217
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Mon Jan 29 02:05:19 2024 -0700
+
+    Clean up files
+
+commit e946e758aaaf2b9874373e3fa70e3f6e6aae1cf9
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Mon Jan 29 02:01:40 2024 -0700
+
+    Finished
+
+commit 1bce17889ddf9c93c6275cb49314f111ceb397b2
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Sun Jan 28 09:13:17 2024 -0700
+
+    Almost Done
+
+commit cc31a3a603e1b46b739d11a7d50850f05d4ca722
+Author: calebtd <caleb@dillenbeck.org>
+Date:   Mon Jan 15 12:01:56 2024 -0700
+
+    Added README and gitignore
